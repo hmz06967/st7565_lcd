@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "st7565.h": "c",
+        "lcd.h": "c",
+        "main.h": "c"
+    }
+}
